@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
+
+# Personal prep notes, not for the public repo
+DEMO_GUIDE.md
